@@ -1,0 +1,2 @@
+rootProject.name='PolishDistanceTracker'
+include ':app'
